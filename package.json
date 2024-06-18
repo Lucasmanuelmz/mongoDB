@@ -1,0 +1,14 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Primeiro banco de dados com mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Manuel Alface",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.7.0"
+  }
+}
